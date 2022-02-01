@@ -1,0 +1,16 @@
+.button {
+    background-color: #ffffff;
+    border: none;
+    padding: 0.5rem;
+    margin: 0.25rem;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+.button:hover {
+    background-color: #ececec;
+    cursor: pointer;
+}
