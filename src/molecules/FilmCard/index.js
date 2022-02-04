@@ -1,9 +1,7 @@
-function FilmCard({ name, date }) {
+function FilmCard() {
     return (
         <div>
-            <img />
-            <span>{name}</span>
-            <span>{date}</span>
+            <h1>oi</h1>
         </div>
     )
 }
